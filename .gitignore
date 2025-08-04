@@ -12,7 +12,7 @@ ENV/
 # Environment variable files
 *.env
 .env.*
-
+.DS_Store
 # Distribution / packaging
 build/
 dist/
