@@ -53,3 +53,6 @@ print(f"\nRetrieved item: {item}")
 response = table.scan()
 items = response.get('Items', [])
 print(f"\nAll items in the table: {items}")
+
+
+# We can pretty print with json and pprint

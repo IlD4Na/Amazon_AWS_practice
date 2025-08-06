@@ -1,0 +1,11 @@
+IDTransazione,Data,Ora,Articolo,Quantita,PrezzoUnitario,CodiceCliente,Nazione
+1,2024-01-02,10:04:59,Televisore LG 55 pollici,1,799.99,12345,Italia
+2,2024-01-02,10:10:29,Smartphone Samsung Galaxy S21,2,999.99,12346,Spagna
+3,2024-01-02,10:17:45,Laptop HP Pavilion 15",1,1199.49,12347,Francia
+4,2024-01-02,10:24:01,Console Sony PlayStation 5,1,499.99,12348,Italia
+5,2024-01-02,10:30:22,Cuffie Wireless Bose,2,349.99,12349,Germania
+2025-08-06 22:16:50,sensor_1,93.1775884749117
+2025-08-06 22:16:57,sensor_4,96.40654462004335
+2025-08-06 22:17:05,sensor_2,56.49868515538212
+2025-08-06 22:17:13,sensor_4,23.539947199591786
+2025-08-06 22:17:21,sensor_5,52.37679022416647
