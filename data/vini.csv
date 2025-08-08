@@ -1,0 +1,51 @@
+nome_vino,id_vino,regione
+Rossese,1,Sardegna
+Caprettone,2,Emilia-Romagna
+Passerina,3,Campania
+Schioppettino,4,Friuli-Venezia Giulia
+Pignolo,5,Friuli-Venezia Giulia
+Bombino,6,Trentino-Alto Adige
+Trebbiano,7,Liguria
+Falanghina,8,Sardegna
+Refosco,9,Piemonte
+Dolcetto,10,Basilicata
+Raboso,11,Emilia-Romagna
+Verdicchio,12,Veneto
+Brunello di Montalcino,13,Veneto
+Lambrusco,14,Calabria
+Sangiovese,15,Calabria
+Inzolia,16,Valle d'Aosta
+Fiano,17,Basilicata
+Primitivo,18,Calabria
+Vernaccia,19,Abruzzo
+Garganega,20,Lombardia
+Chianti,21,Lazio
+Malvasia,22,Piemonte
+Teroldego,23,Umbria
+Greco di Tufo,24,Puglia
+Grillo,25,Piemonte
+Montepulciano,26,Trentino-Alto Adige
+Ciliegiolo,27,Liguria
+Cortese,28,Piemonte
+Canaiolo,29,Liguria
+Susumaniello,30,Marche
+Franciacorta,31,Campania
+Vermentino,32,Piemonte
+Biancolella,33,Valle d'Aosta
+Nebbiolo,34,Friuli-Venezia Giulia
+Pallagrello,35,Basilicata
+Nero d'Avola,36,Umbria
+Amarone,37,Piemonte
+Marzemino,38,Friuli-Venezia Giulia
+Prosecco,39,Piemonte
+Aglianico,40,Valle d'Aosta
+Friulano,41,Veneto
+Pecorino,42,Abruzzo
+Pigato,43,Emilia-Romagna
+Corvina,44,Basilicata
+Lacrima,45,Abruzzo
+Colorino,46,Lazio
+Tocai,47,Calabria
+Morellino,48,Emilia-Romagna
+Cannonau,49,Umbria
+Barolo,50,Basilicata
