@@ -33,3 +33,6 @@ Clona il repository e installa le dipendenze:
 git clone https://github.com/tuo-utente/nome-progetto.git
 cd nome-progetto
 pip install -r requirements.txt
+
+
+## 
