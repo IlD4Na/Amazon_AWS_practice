@@ -1,0 +1,29 @@
+Istruzioni d'uso per usare dati sensibili senza renderli visibili nel codice 
+come da GoodPractice.
+
+----------------------------------------------------------------------------
+
+I dati sensibili possono essere memorizzati in una variabile d'ambiente, 
+questo significa che creiamo una variabile con dentro il nostro dato sensibile
+all'interno di un file con estensione .env
+
+Ad esempio in questo caso ho utilizzato un file chiamato redshift_credentials.env 
+e dentro ci ho scritto semplicemente:
+
+REDSHIFT_PASS=password_inserita
+ALTRA_PASS=altra_password_inserita
+
+In questa maniera vado a salvare la variabile d'ambiente REDSHIFT_PASS che posso richiamare
+senza far vedere cosa si cela dentro di essa.  
+
+Per richiamarla devo usare load_dotenv "from dotenv import load_dotenv". Ovviamente
+prima devo installarla attraverso pip install python-dotenv. 
+
+Questa funzione mi permette di caricare la variabile d'ambiente specificando
+il path del file che le contiene tipo cosi:
+
+load_dotenv(dotenv_path='.venv/redshift_credentials.env') 
+
+Infine posso semplicemente creare la variabile e assegnarli quel valore in questa maniera:
+
+password = os.getenv('REDSHIFT_PASS')

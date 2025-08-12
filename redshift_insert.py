@@ -12,7 +12,7 @@ load_dotenv(dotenv_path='.venv/redshift_credentials.env')
 
 conn_info = {
     'host': 'professionai.470880515310.eu-west-3.redshift-serverless.amazonaws.com',
-    'database':'dev',
+    'database':'professionai',
     'user': 'mio_utente',
     'password': os.getenv('REDSHIFT_PASS'),
     'port': 5439

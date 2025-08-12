@@ -41,4 +41,3 @@ upload_file_to_s3(file_name, bucket_name, Saved_file_path, region_name=region_na
 print('\n Programma finito con successo! \n')
 
 
-
